@@ -1,4 +1,14 @@
+.item {
+    display: flex;
+    margin: 10px;
+}
+
 .item img {
     width: 5%;
     border-radius: 50px;
+    margin: 10px;
+}
+
+.post span {
+    margin-left: 50px;
 }

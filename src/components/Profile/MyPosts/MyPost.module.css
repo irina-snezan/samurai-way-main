@@ -2,6 +2,11 @@
     display: flex;
     margin-bottom:  15px;
 }
-.myPosts{
+.myPosts {
     padding: 10px 20px
+}
+.add_post textarea {
+    width: 50%;
+    margin-right: 10px
+;
 }
